@@ -1,0 +1,1 @@
+# funkyberlin-zsh-theme
